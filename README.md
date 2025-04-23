@@ -12,13 +12,21 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - **BigQuery**: manipulação e limpeza de dados SQL
 - **Google Colab (Python)**: análises estatísticas e modelagem preditiva
 - **Power BI**: visualizações interativas
+- 
 
-## Arquivos do Projeto
+## Estrutura
 
-- [Notebook com testes estatísticos e modelo preditivo (Google Colab)](bruna_derner_colab_02.ipynb)
-- [Dashboard Interativo (Power BI)](bruna-derner-pbi.02.pbix)
-- [Apresentação Final (PowerPoint)](bruna-derner-apres.02.pptx)
-- [Códigos SQL usados no BigQuery](bigquery_code_bruna_derner.sql)
+- `notebooks/`: análises em Python no Google Colab
+- `dashboards/`: dashboard do Power BI (.pbix)
+- `presentation/`: slides de apresentação final (.pptx)
+- `queries/`: código SQL usado no BigQuery
+
+## 📂 Arquivos do Projeto
+
+- 📓 [Notebook com testes estatísticos e modelo preditivo (Google Colab)](notebooks/bruna_derner_colab_02.ipynb)
+- 📊 [Dashboard Interativo (Power BI)](dashboards/bruna-derner-pbi.02.pbix)
+- 🖥️ [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pptx)
+- 🧾 [Códigos SQL usados no BigQuery](queries/bigquery_code_bruna_derner.sql)
 
 ## Principais Resultados
 
