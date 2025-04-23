@@ -21,12 +21,12 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - `presentation/`: slides de apresentação final (.pptx)
 - `queries/`: código SQL usado no BigQuery
 
-## 📂 Arquivos do Projeto
+## Arquivos do Projeto
 
-- 📓 [Notebook com testes estatísticos e modelo preditivo (Google Colab)](notebooks/bruna_derner_colab_02.ipynb)
-- 📊 [Dashboard Interativo (Power BI)](dashboards/bruna-derner-pbi.02.pbix)
-- 🖥️ [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pptx)
-- 🧾 [Códigos SQL usados no BigQuery](queries/bigquery_code_bruna_derner.sql)
+- [Notebook com testes estatísticos e modelo preditivo (Google Colab)](notebooks/bruna_derner_colab_02 (1).ipynb)
+- [Dashboard Interativo (Power BI)](dashboards/bruna-derner-pbi.02.pbix)
+- [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pptx)
+- [Códigos SQL usados no BigQuery](queries/bigquery_code_bruna_derner.sql)
 
 ## Principais Resultados
 
