@@ -25,7 +25,7 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 
 - [Notebook com testes estatísticos e modelo preditivo (Google Colab)](notebook/bruna_derner_colab_02.ipynb)
 - [Dashboard Interativo (Power BI)](dashboards/bruna-derner-pbi.02.pbix)
-- [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pptx)
+- [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pdf)
 - [Códigos SQL usados no BigQuery](queries/bigquery_code_bruna_derner.sql)
 
 ## Principais Resultados
