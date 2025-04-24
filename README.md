@@ -29,7 +29,7 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - [Dashboard Interativo (Power BI)](dashboard/bruna-derner-pbi.02.pbix)
 - [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pdf)
 - [Códigos SQL usados no BigQuery](queries/bigquery_code_bruna_derner.sql)
-- [Ficha Técnica](bruna-derner-fichatec.02)
+- [Ficha Técnica](bruna-derner-fichatec.02.pdf)
 
 ## Metodologia
 
