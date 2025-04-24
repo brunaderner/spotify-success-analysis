@@ -14,7 +14,6 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - **Banco de Dados**: Plataforma em nuvem Google BigQuery, utilizada para armazenar, consultar e transformar os dados com SQL.
 - **Visualização de Dados**: Power BI para construção de dashboards interativos, com uso complementar de Power Query e visualizações em Python integradas.
 - **Ambiente de Desenvolvimento**: Google Colab, utilizado para análises estatísticas, testes de hipóteses e modelagem preditiva com bibliotecas Python.
-- 
 
 ## Estrutura
 - `dados-primarios/`: Dados brutos fornecidos inicialmente para a análise
