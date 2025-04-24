@@ -92,7 +92,7 @@ JOIN (
 ) dup
 ON s.track_name = dup.track_name
 AND s.artist_s__name = dup.artist_s__name
-ORDER BY s.track_name, s.artist_s__name#buscando as duplicatas para visualizaçãoSELECT s.*FROM `projeto2-lab-456316.proj02.track_in_spotify` sJOIN (  SELECT track_name, artist_s__name  FROM `projeto2-lab-456316.proj02.track_in_spotify`  GROUP BY track_name, artist_s__name  HAVING COUNT(*) > 1) dupON s.track_name = dup.track_nameAND s.artist_s__name = dup.artist_s__nameORDER BY s.track_name, s.artist_s__name
+ORDER BY s.track_name, s.artist_s__name
 
 #selecionando as variaveis 
 SELECT *
