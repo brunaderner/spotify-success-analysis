@@ -61,7 +61,7 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
    - in_deezer_charts (+6.9 milhões de streams)
    - A variável energy, por outro lado, teve impacto negativo no desempenho.
   
-  ## 🎥 Vídeo Explicativo (Loom)
+  ## Vídeo de Apresentação - Loom
 
 Assista à apresentação completa:
 
