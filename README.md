@@ -22,7 +22,6 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - `dashboards/`: Dashboard desenvolvido no Power BI com visualizações interativas (.pbix)
 - `presentation/`: Apresentação final com os principais resultados (.pdf)
 - `queries/`: Consultas SQL aplicadas no Google BigQuery
-- `video/`: Vídeo de apresentação na plataforma Loom
 
 ## Arquivos do Projeto
 
