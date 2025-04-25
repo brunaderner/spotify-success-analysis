@@ -31,7 +31,6 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pdf)
 - [Códigos SQL usados no BigQuery](queries/bigquery_code_bruna_derner.sql)
 - [Ficha Técnica](bruna-derner-fichatec.02.pdf)
-- [Vídeo de apresentação](video/loom)
 
 ## Metodologia
 
@@ -62,6 +61,13 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
    - in_apple_charts (+836 mil streams)
    - in_deezer_charts (+6.9 milhões de streams)
    - A variável energy, por outro lado, teve impacto negativo no desempenho.
+  
+  ## 🎥 Vídeo Explicativo (Loom)
+
+Assista à apresentação completa:
+
+[![Assista ao vídeo no Loom](https://img.shields.io/badge/Ver%20Apresenta%C3%A7%C3%A3o-Loom-%23F9C646?style=for-the-badge&logo=loom)](https://www.loom.com/share/42758b82a01542b9b8e90f406d83ae2d?sid=5f74b90f-db71-4fb9-b8ee-781a95f8efd5)
+
 
 ## Autora
 
