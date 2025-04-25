@@ -22,6 +22,7 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - `dashboards/`: Dashboard desenvolvido no Power BI com visualizações interativas (.pbix)
 - `presentation/`: Apresentação final com os principais resultados (.pdf)
 - `queries/`: Consultas SQL aplicadas no Google BigQuery
+- `video/`: Vídeo de apresentação na plataforma Loom
 
 ## Arquivos do Projeto
 
@@ -30,6 +31,7 @@ Investigar cinco hipóteses sobre os fatores que influenciam a popularidade musi
 - [Apresentação Final (PowerPoint)](presentation/bruna-derner-apres.02.pdf)
 - [Códigos SQL usados no BigQuery](queries/bigquery_code_bruna_derner.sql)
 - [Ficha Técnica](bruna-derner-fichatec.02.pdf)
+- [Vídeo de apresentação](video/loom)
 
 ## Metodologia
 
