@@ -318,6 +318,13 @@ LEFT JOIN (
   #fiz esse processo de 2 em 2 até terminar todas as variaveis que eu queria
   ttrabalhar estivessem listadas. essas são as duas ultimas.
  
+#correlação entre as variáveis
+SELECT
+  CORR(total_playlists, streams) AS correlacao
+FROM
+  `projeto2-lab-456316`.`proj02`.`track_spotify` AS track_spotify;
+
+#fiz esse mesmo processo para todas as variáveis citadas na seção 4.1 da ficha técnica
 
 #salvando arquivo em csv
 select
